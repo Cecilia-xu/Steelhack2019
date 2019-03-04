@@ -47,5 +47,5 @@ It is a really good chance for us to use various kinds of APIs of different tool
 - We need to improve the user experience
 
 ## Try it out
--  [healthelf](www.healthelf.net)
+-  [healthelf](https://www.healthelf.net)
 -  [Hackathon](https://devpost.com/software/healthelf-your-personal-health-monitor)
